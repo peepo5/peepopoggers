@@ -10,3 +10,5 @@ With that said here's a cool animated thing that shows stats.
 ![peepopoggers' github stats](https://github-readme-stats.vercel.app/api?username=peepopoggers&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peepopoggers&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+- [termcrypt](https://github.com/peepopoggers/termcrypt)
