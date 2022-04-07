@@ -3,7 +3,7 @@
 I specialize in developing open source applications, and I base a sizable amount of my work around cryptocurrencies.
 I am in favor of alternate technology, privacy and security, and I contribute where possible to such projects.
 
-blah blah blah... <3
+I also made my account name on a whim.
 
 ![peepopoggers' github stats](https://github-readme-stats.vercel.app/api?username=peepopoggers&theme=dracula)
 
